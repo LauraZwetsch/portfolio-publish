@@ -1,0 +1,79 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0vh;
+    
+}
+.section2{
+    display: inline-block;
+    margin-left: 0vw;
+    width: 10vh;
+}
+header{
+    background-color: rgb(244, 236, 206);
+    border-radius: 0.5vw;
+    margin-bottom: 5vw;
+}
+#logo{
+    display: inline-block;
+    height: 12vh;
+    width: 6vw;
+    border-radius: 2vh; 
+}
+nav{
+    display: inline;
+    margin: 2vh;
+    margin-left: 100vh;
+    transition: 0.4s;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin: 2vh;
+    border-radius: 1vh;
+    transition: 0.4s;
+}
+nav a:hover{
+    transition: 0.4s;
+    background-color: rgba(206, 185, 222, 0.719);
+}
+section{
+    display: inline-block;
+}
+
+footer{
+    background-color:  rgb(244, 236, 206);
+    text-align: center;
+    border-radius: 0.5vh;
+}
+.section1{
+    padding: 0.8rem;
+    width: 10vw;
+}
+
+form{
+    margin-left: 72vh;
+    margin-top: 10vh;
+    margin-bottom: 20vh;
+    /* background-color: rgba(193, 193, 193, 0.719); */
+    display: inline-block;
+    border-radius: 5vh;
+}
+
+h1{
+    display: inline;
+    background-color:rgb(187, 239, 239);
+    border-radius: 1vh;
+    font-size: 35px;
+    margin-left: 70vh;
+}
+div{
+    text-align: left;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+#div1{
+    margin-top: 5vh;
+}
+#div2{
+    margin-bottom: 5vh;
+}

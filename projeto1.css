@@ -1,0 +1,111 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0vh;
+}
+.section2{
+    display: inline-block;
+    margin-left: 0vw;
+    width: 10vh;
+}
+header{
+    background-color: rgb(244, 236, 206);
+    border-radius: 0.5vw;
+    margin-bottom: 3vw;
+}
+#logo{
+    display: inline-block;
+    height: 12vh;
+    width: 6vw;
+    border-radius: 2vh; 
+}
+nav{
+    display: inline;
+    margin: 2vh;
+    margin-left: 100vh;
+    transition: 0.4s;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin: 2vh;
+    border-radius: 1vh;
+    transition: 0.4s;
+}
+nav a:hover{
+    transition: 0.4s;
+    background-color: rgba(206, 185, 222, 0.719);
+}
+section{
+    display: inline-block;
+}
+
+footer{
+    background-color:  rgb(244, 236, 206);
+    text-align: center;
+    margin-top: 15vh;
+    border-radius: 0.5vh;
+}
+.section1{
+    padding: 0.8rem;
+    width: 10vw;
+}
+
+#div1 img{
+    width: 70%;
+    margin-left: 15vh;
+    margin-bottom: 8vh;
+    margin-top: 5vh;
+    transition: all 0.5s;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+#div2 img{
+    width: 70%;
+    margin-left: 15vh;
+    transition: all 0.5s;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+div{
+    width: 50%;
+}
+main h2{
+    background-color:rgb(192, 240, 240);
+    border-radius: 1vh;
+    font-size: 25px;
+    float: inline-end;
+    margin-right: -75vh;
+    margin-top: 20vh;
+}
+#p1{
+    float: inline-end;
+    margin-top: 30vh;
+    margin-right: -76vh;
+    width: 68%;
+}
+#p2{
+    float: inline-end;
+    margin-right: -28vh;
+    margin-top: 55vh;
+}
+ul{
+    float: inline-end;
+    margin-right: -15vh;
+    margin-top: 60vh;
+}
+img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    border-radius: 15px;
+}
+#div3 a{
+    text-decoration: none;
+    border-radius: 2vh;
+    color: black;
+    float: inline-end;
+    margin-right: -32.5vh;
+    background-color:rgb(192, 240, 240);
+    margin-top: -15vh;
+}
